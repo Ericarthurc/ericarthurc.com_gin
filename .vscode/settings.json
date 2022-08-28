@@ -1,0 +1,27 @@
+{
+  "emmet.includeLanguages": {
+    "jinja2": "html",
+    "jinja-html": "html"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#007d9c",
+    "activityBar.activeBorder": "#800066",
+    "activityBar.background": "#007d9c",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#800066",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#007d9c",
+    "statusBar.background": "#005469",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#007d9c",
+    "statusBarItem.remoteBackground": "#005469",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#005469",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#00546999",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "commandCenter.border": "#e7e7e799"
+  },
+  "peacock.color": "#005469"
+}
